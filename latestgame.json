@@ -1,0 +1,158 @@
+[
+  {
+    "id":1,
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Rise_of_the_Tomb_Raider.jpg",
+    "category": "Action",
+    "title": "Rise of the Tomb Raider",
+    "price": "₹250",
+    "description": "Rise of the Tomb Raider: 20 Year Celebration includes the base game and Season Pass featuring all-new content. Explore Croft Manor in the new “Blood Ties” story, then defend it against a zombie invasion in “Lara’s Nightmare”. Survive extreme conditions with a friend in the new online Co-Op Endurance mode, and brave the new “Extreme Survivor” difficulty. Also features an outfit and weapon inspired by Tomb Raider III, and 5 classic Lara skins. Existing DLC will challenge you to explore a new tomb that houses an ancient terror in Baba Yaga: The Temple of the Witch, and combat waves of infected predators in Cold Darkness Awakened.",
+    "allimages": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_c61955cad6c9ec672f6a2f4a192b234a6f752d10.600x338.jpg?t=1709834259",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_2b612bfa62d920b061e900e1f7a975a2de6729ec.600x338.jpg?t=1709834259",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_0602fd918166985793cbae01df4c8a944f1f76dd.600x338.jpg?t=1709834259",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_4ef0868ecfc6b19bc1af18b88cabe33fe8147cf7.600x338.jpg?t=1709834259"
+    ]
+},
+
+  {
+    "id":2,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+    "category":"Action",
+    "title": " GTA 5 ",
+    "price": " ₹300",
+    "description": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other.",
+    "allimages": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_2744f112fa060320d191a50e8b3a92441a648a56.600x338.jpg?t=1716224849",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_b1a1cb7959d6a0e6fcb2d06ebf97a66c9055cef3.600x338.jpg?t=1716224849",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d2eb9d3e50f9e4cb8db37d2976990b3795da8187.600x338.jpg?t=1716224849",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd944debbec9936769f6dfb39ee456ca605615e3.600x338.jpg?t=1716224849"
+  ]
+  },
+  {
+    "id":3,
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Need_for_Speed_Payback_standard_edition_cover_art.jpg",
+    "category":"Racing",
+    "title": " Need For Speed Payback ",
+    "price": " ₹10",
+    "description": "Set in the underworld of Fortune Valley, you and your crew were divided by betrayal and reunited by revenge to take down The House, a nefarious cartel that rules the city’s casinos, criminals and cops. In this corrupt gambler’s paradise, the stakes are high and The House always wins.Craft unique rides with deeper performance and visual customization than ever before. Push them to the limit when you narrowly escape the heat in epic cop battles. From insane heist missions to devastating car battles to jaw-dropping set piece moments, Need for Speed Payback delivers an edge-of-your-seat, adrenaline-fueled action-driving fantasy.",
+    "allimages": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/ss_afc36c446e528e64298b881d59d245e0426d0673.600x338.jpg?t=1692306558",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/ss_d81665a501336c92ecc0af24fbc672be9ec924cc.600x338.jpg?t=1692306558",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/ss_c808818da89f8dff9cdc85789e8f6f089b257bea.600x338.jpg?t=1692306558",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/ss_3f14712eab1f5f22e4cbf3d68acf3dba2f999d06.600x338.jpg?t=1692306558"
+  ]
+  },
+  {
+    "id":4,
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/11/Shadow_of_the_Tomb_Raider_cover.png",
+    "category":"Action",
+    "title": " Shadow of Tomb Raider ",
+    "price": " ₹200",
+    "description": "In Shadow of the Tomb Raider Definitive Edition experience the final chapter of Lara’s origin as she is forged into the Tomb Raider she is destined to be. Combining the base game, all seven DLC challenge tombs, as well as all downloadable weapons, outfits, and skills, Shadow of the Tomb Raider Definitive Edition is the ultimate way to experience Lara’s defining moment.",
+    "allimages": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_04b30aaa0ce083b1bcff63d06432707ab9c35c74.600x338.jpg?t=1709834464",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_3f370f69eef0caeceb533d06925cc48f0f26c83c.600x338.jpg?t=1709834464",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_3fcd62a2831bcc1e557a0fe2a061b6369ba030d1.600x338.jpg?t=1709834464",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_06a2446b7ccef5eaac1ef4200acdb3f02dac9ae0.600x338.jpg?t=1709834464"
+  ]
+  },
+  {
+    "id":5,
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Mortal_Kombat_box_art.png",
+    "title": " Mortal Kombat ",
+    "category":"Action",
+    "price": " ₹200",
+    "description": "Who’s Next? Experience the Next Generation of the #1 Fighting Franchise. Mortal Kombat X combines unparalleled, cinematic presentation with all new gameplay. For the first time, players can choose from multiple variations of each character impacting both strategy and fighting style.",
+    "allimages": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_03f7f4582a1036cbcbca1a4c87e14c7831b5f424.600x338.jpg?t=1698957913",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_1f002ef5eb037c81e92bcbc29306fc91d4b6d26f.600x338.jpg?t=1698957913",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_0f4f568f3a4ee49061484b5ea916d634f443b8a9.600x338.jpg?t=1698957913",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_26e44be31535646f43643c03fcc94c42e4c6f099.600x338.jpg?t=1698957913"
+  ]
+  },
+  {
+    "id":6,
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Dragon_Ball_Xenoverse_cover_art.jpg",
+    "category":"Anime",
+    "title": " Dragon Ball: Xenoverse ",
+    "price": " ₹200",
+    "description": "DRAGON BALL XENOVERSE revisits famous battles from the series through your custom Avatar, who fights alongside Trunks and many other characters. Will the strength of this partnership be enough to intervene in fights and restore the Dragon Ball timeline we know? New features include the mysterious Toki Toki City, new gameplay mechanics, new character animations and many other amazing features to be unveiled soon!",
+    "allimages": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323470/ss_9270b9170af96b140d2ca060f93720fb928bead6.600x338.jpg?t=1701323766",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323470/ss_d912fb5588a5ff0a950306535babb813503e0f97.600x338.jpg?t=1701323766",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323470/ss_6205902c4caab9d81c87f46b71aac2b3bde7d541.600x338.jpg?t=1701323766",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323470/ss_8baa4b04e4c395f26879c6f6ca73d2b181216a10.600x338.jpg?t=1701323766"
+  ]
+  },
+  {
+    "id":7,
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/54/NSUNS4_game_cover.png",
+    "category":"Anime",
+    "title": " Naruto Shippuden: Ultimate Ninja Storm 4 ",
+    "price": " ₹250",
+    "description": "The latest opus in the acclaimed STORM series is taking you on a colourful and breathtaking ride. Take advantage of the totally revamped battle system and prepare to dive into the most epic fights you’ve ever seen !",
+    "allimages": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/ss_61a26c1cd4f6ec0fe8635156d8239b9903f7da4f.600x338.jpg?t=1703080866",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/ss_4f91876c2dbcc95cd32fdf3d9cf68895737b33ef.600x338.jpg?t=1703080866",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/ss_1167f11ce3f8a6a6a333856052d109d1ae3deb26.600x338.jpg?t=1703080866",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/ss_8e0e6b3efb93d23909c7d451d481aeef5287dc37.600x338.jpg?t=1703080866"
+  ]
+  },
+  {
+    "id":8,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Forza_Horizon_5_cover_art.jpg",
+    "category":"Racing",
+    "title": " Forza Horizon 5 ",
+    "price": " ₹250",
+    "description": "Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars. Blast off into Forza Horizon 5: Hot Wheels or Conquer the Sierra Nueva in the ultimate Horizon Rally Adventure experience. Requires Forza Horizon 5 game, expansion sold separately.",
+    "allimages": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_cf56e25a0290556ba83229eb0ab370d10be0407c.600x338.jpg?t=1717876415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_00f0090174380eeaf8753bd3d1028b6772c3aebf.600x338.jpg?t=1717876415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_b65236b365315ebb6da6114ce42cd74b59cab3c8.600x338.jpg?t=1717876415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_b65236b365315ebb6da6114ce42cd74b59cab3c8.600x338.jpg?t=1717876415"
+  ]
+  },
+  {
+    "id":9,
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/91/One-Punch_Man_game.jpg",
+    "category":"Anime",
+    "title": " One Punch Man ",
+    "price": " ₹250",
+    "description": "The first One Punch Man game finally makes its debut! Dive into a dynamic fighting game experience with beloved characters from the first Season of One Punch Man! Play as your favorite hero – or become one!",
+    "allimages": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_cf3ebae34168af88903eb16bc254cdfdb1007dc7.600x338.jpg?t=1686067129",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_4f450028da2de3b39b6e9105be0ff8285c1bf4cf.600x338.jpg?t=1686067129",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_af01e560039627f35db253e6fe7a098ce76eed72.600x338.jpg?t=1686067129",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/ss_235431b3ba4455e512a4a82821af052773c38f71.600x338.jpg?t=1686067129"
+  ]
+  },
+ {
+  "id":10,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Jumpforcegame.jpg",
+    "title": " Jump Force ",
+    "category":"Action",
+    "price": " ₹250",
+    "description": "Create your own avatar to fight alongside the most powerful Manga heroes in an original Story Mode, or head to the Online Lobby to challenge other players and discover lots of modes and activities.",
+    "allimages": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816020/ss_fd4c9accd6c59f7d5e46555ecbb6d7299d96bce1.600x338.jpg?t=1644281556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816020/ss_0f6f2cb5bb20ae466c5694d498bbe60fc23c4bef.600x338.jpg?t=1644281556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816020/ss_86257161eaf18656357527f8a489bbd9fd2666b1.600x338.jpg?t=1644281556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816020/ss_99871152738734e43b79c35c0ef3120348fb99b3.600x338.jpg?t=1644281556"
+  ]
+  },
+ 
+   {
+    "id":11,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Naruto-_Ultimate_NS1_box_art.jpg",
+    "category":"Anime",
+    "title": " Naruto: Ultimate Ninja Storm ",
+    "price": " ₹250",
+    "description": "NARUTO: Ultimate Ninja STORM allows players to battle in full 3D across massive environments. Players will unleash powerful jutsu attacks, perform acrobatic evasive maneuvers and even run up walls. NARUTO: Ultimate Ninja STORM has been remastered in HD.",
+    "allimages": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495140/ss_6a91e2b4402d57d6c06e29762453c77cf76caf77.600x338.jpg?t=1701305352",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495140/ss_3e78c2c2f5c4f25564d8fd3ca944b94256c1f18f.600x338.jpg?t=1701305352",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495140/ss_e83014f3c48487dec822195c87a6e20a07531ac7.600x338.jpg?t=1701305352",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495140/ss_b93a5c0121cd2e04185056356e2e0473e3337943.600x338.jpg?t=1701305352"
+  ]
+  }
+]
